@@ -1,0 +1,1 @@
+alias jsonlen="jq 'length'"
